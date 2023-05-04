@@ -18,7 +18,9 @@ For our project we decided to investigate the following questions:
   
 Our analysis concludes that songs with the highest streams and views are part of an album and not singles. There was a significant difference between how many streams/views a song gets based if it was part of an album or not. This finding was also shown with the songs that are licensed. Songs that are licensed have higher views/streams than those songs that aren't. 
 
-[HAYEY INSERT ANALYSIS HERE]
+It is evidently seen that songs that are louder perform better. The levels of loudness are measured in decibels and are averaged throughout the entire track. As seen for streams, there are more songs that have a higher decibel and are more popular. Through further investigation, Spotify has a higher audio streaming quality allowing us to understand the correlation between loudness and streams and views.
+
+As for the comparison between danceability and popularity of songs, a track that is more danceable makes it more prone to being more successful. The danceability is found through meaures of tempo, rythym stability, beat strength, and overall regularity. 0.0 being least danceable and 1.0 being the most danceable. The scatterplot created goes to show that songs with a higher danceability rate see more views and streams.
 
 We also compared whether the same artist can do well on both platforms. Based on our analysis, most artists are not able to succeed in both streams on Spotify and views on Youtube. We decided to display the top 10 artists and only two out of the ten were able to do well on both platforms. 
 
